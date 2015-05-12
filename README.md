@@ -1,0 +1,2 @@
+# BlueStreak
+Metacity Theme
